@@ -6,7 +6,7 @@ A MATLAB based tool for estimating model rocket apogee and optimal ejection char
 SAC takes a rocket's total mass and a user-selected motor, then uses the four kinematic equations to estimate:
 - The rocket's maximum altitude (apogee) in feet
 - The optimal time for the ejection charge to fire
-No calculus or numerical integration is used — all calculations are direct algebraic substitution.
+No calculus or numerical integration is used 
  
 
  
